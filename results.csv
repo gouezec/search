@@ -1,0 +1,23 @@
+Algorithm id,Algorithm name,Problem,# actions,# expansions,# goal tests,# new nodes,plan length,time
+1,breadth_first_search,Air Cargo Problem 1,20,43,56,178,6,0.006354364000003443
+2,depth_first_graph_search,Air Cargo Problem 1,20,21,22,84,20,0.004260126000190212
+3,uniform_cost_search,Air Cargo Problem 1,20,60,62,240,6,0.01011570600030609
+4,greedy_best_first_graph_search h_unmet_goals,Air Cargo Problem 1,20,7,9,29,6,0.001750820000324893
+5,greedy_best_first_graph_search h_pg_levelsum,Air Cargo Problem 1,20,6,8,28,6,0.4569938939998792
+6,greedy_best_first_graph_search h_pg_maxlevel,Air Cargo Problem 1,20,6,8,24,6,0.3105027950000476
+7,greedy_best_first_graph_search h_pg_setlevel,Air Cargo Problem 1,20,6,8,28,6,0.9050092200000108
+8,astar_search h_unmet_goals,Air Cargo Problem 1,20,50,52,206,6,0.009789932000330737
+9,astar_search h_pg_levelsum,Air Cargo Problem 1,20,28,30,122,6,1.1174429699999564
+10,astar_search h_pg_maxlevel,Air Cargo Problem 1,20,43,45,180,6,1.1712865029999193
+11,astar_search h_pg_setleve,Air Cargo Problem 1,20,33,35,138,6,2.211492724999971
+1,breadth_first_search,Air Cargo Problem 2,72,3343,4609,30503,9,2.1189173239999946
+2,depth_first_graph_search,Air Cargo Problem 2,72,624,625,5602,619,3.103516560999651
+3,uniform_cost_search,Air Cargo Problem 2,72,5154,5156,46618,9,3.6247584480001933
+4,greedy_best_first_graph_search h_unmet_goals,Air Cargo Problem 2,72,17,19,170,9,0.019884838000052696
+5,greedy_best_first_graph_search h_pg_levelsum,Air Cargo Problem 2,72,9,11,86,9,10.29889321399969
+6,greedy_best_first_graph_search h_pg_maxlevel,Air Cargo Problem 2,72,27,29,249,9,19.155840929000078
+7,greedy_best_first_graph_search h_pg_setlevel,Air Cargo Problem 2,72,9,11,84,9,21.838413315999787
+8,astar_search h_unmet_goals,Air Cargo Problem 2,72,2467,2469,22522,9,2.3510954990001665
+9,astar_search h_pg_levelsum,Air Cargo Problem 2,72,357,359,3426,9,281.3707459780003
+10,astar_search h_pg_maxlevel,Air Cargo Problem 2,72,2887,2889,26594,9,1688.4947467260004
+11,astar_search h_pg_setleve,Air Cargo Problem 2,72,1037,1039,9605,9,1876.0543867300003
